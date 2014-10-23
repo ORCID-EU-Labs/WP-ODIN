@@ -1,0 +1,13 @@
+.DS_Store
+.vagrant*
+Gemfile.lock
+.librarian/*
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+tmp/*
+log/*
+config/settings.yml
